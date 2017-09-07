@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SeekbarLayouts</string>
+    <string name="seekbar_progress">The SeekBar\'s value is %1$d</string>
+</resources>
