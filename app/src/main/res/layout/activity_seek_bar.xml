@@ -29,4 +29,14 @@
         android:layout_marginTop="48dp"
         android:max="100" />
 
+    <Button
+        android:id="@+id/display_square_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/seek_bar_value_label"
+        android:layout_alignStart="@+id/seek_bar_value_label"
+        android:layout_below="@+id/seek_bar"
+        android:layout_marginTop="151dp"
+        android:text="Button" />
+
 </RelativeLayout>
